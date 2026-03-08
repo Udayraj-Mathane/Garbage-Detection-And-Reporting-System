@@ -112,15 +112,4 @@ Timestamp & Location
 Status update
 
 
-🤝 Contributors
-
-Udayraj Mathane
-
-Pranay A. Pohokar
-
-Parth V. Deshmukh
-
-Tushar R. Pawade
-
-Nikita S. Gandhi
 
