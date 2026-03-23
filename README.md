@@ -1,6 +1,6 @@
 # 🗑️ Garbage Detection and Reporting System
 
-The **Garbage Detection and Reporting System** is an AI-powered application that automatically detects garbage in images/videos using **Computer Vision (OpenCV)** and generates reports through a **Flask web interface**. This project helps improve cleanliness monitoring by providing an automated way to identify garbage and notify authorities for timely action.
+The **Garbage Detection and Reporting System** is an application that automatically detects garbage in images/videos using **Computer Vision (OpenCV)** and generates reports through a **Flask web interface**. This project helps improve cleanliness monitoring by providing an automated way to identify garbage and notify authorities for timely action.
 
 ---
 
